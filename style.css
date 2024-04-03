@@ -10,12 +10,12 @@
     line-height: 1.6;
     }
     header {
-    background-color: #f0f0f0;
+    background-color: #F5FFFA;
     }
     .logo{
     width: 70px;
     border-radius: 50%;
-    border:solid 2px #f9aa33;
+    border:solid 2px  #87CEFA;
     
     margin:20px;
     }
@@ -36,7 +36,7 @@
     .barraDePesquisa button {
     padding: 5px 10px;
     background-color: #333;
-    color: #fff;
+    color:  #F0FFFF;
     border: none;
     cursor: pointer;
     }
